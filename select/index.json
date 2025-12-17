@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アイサレタイ",
+  "base_artist": "Yumcha",
+  "createdAt": "2025-12-17T05:47:50.792350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイサレタイ",
+      "artist": "Yumcha",
+      "has_synced": true,
+      "path": "select/01_アイサレタイ_Yumcha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイサレタイ",
+      "artist": "Yumcha",
+      "has_synced": false,
+      "path": "select/pl_01_アイサレタイ_Yumcha.txt"
+    }
+  ]
+}
